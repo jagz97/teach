@@ -1,2 +1,2 @@
-def foo(f):
+def goo(f):
 	print(f)
